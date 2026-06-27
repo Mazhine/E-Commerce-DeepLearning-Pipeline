@@ -11,8 +11,7 @@ Ce depot contient un projet complet et structure pour le module de deep learning
 - `src/` : code source modulaire PyTorch
 - `main.py` : point d'entree principal executable
 - `notebooks/` : notebook de demonstration et d'explication
-- `reports/rapport_scientifique.md` : rapport scientifique structure
-- `reports/annexe_experimentale.md` : annexe experimentale
+- `rapport/` : dossier contenant le rapport scientifique au format LaTeX
 - `data/README.md` : jeux de donnees recommandes et organisation attendue
 - `artifacts/` : sorties d'entrainement, checkpoints et figures generees
 

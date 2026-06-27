@@ -1,1 +1,0 @@
-"""Architectures de modeles PyTorch."""
